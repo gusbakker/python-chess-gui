@@ -17,5 +17,5 @@ Initial setting with random & Stockfish AI is provided.
 
 ## How to Run
 1. Clone the repository.
-2. Install the required packages.
+2. `pip install -r requirements.txt`
 3. Run `python main.py`.
