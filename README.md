@@ -2,9 +2,11 @@
 
 ## Overview
 Simple Chess GUI built with Tkinter and python-chess, that serves as an interface to apply your own chess AI.
-
 Chess rules included.
-Initial setting with random & Stockfish AI is provided.
+
+Two AI modes already included: 
+- Random mode (default)
+- Stockfish (installed separately).
 
 Note: To move the pieces, click on the piece, then click on the square you want to move it to.
 (drag & drop would be great to implement in the future)
@@ -20,7 +22,7 @@ Note: To move the pieces, click on the piece, then click on the square you want 
 ## Dependencies
 - Tkinter
 - python-chess
-- Stockfish (optional, for advanced AI. Installed separately)
+- Stockfish (optional, for advanced AI)
 
 ## How to Run
 1. Clone the repository.
