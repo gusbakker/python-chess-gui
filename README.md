@@ -4,7 +4,7 @@
 Simple Chess GUI built with Tkinter and python-chess, that serves as an interface to apply your own chess AI.
 Chess rules included.
 
-Two AI modes already included: 
+Two AI modes: 
 - Random mode (default)
 - Stockfish (installed separately).
 
