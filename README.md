@@ -8,7 +8,7 @@ Two AI modes:
 - Random mode (default)
 - Stockfish (installed separately).
 
-Note: To move the pieces, click on the piece, then click on the square you want to move it to.
+Note: To move a piece, click on it, then click on the square you want to move it to.
 (drag & drop would be great to implement in the future)
 
 <img width="500" alt="image" src="https://github.com/gusbakker/python-chess-gui/assets/11593313/431bc3bd-994a-4956-8a3d-119a07ad1894">
